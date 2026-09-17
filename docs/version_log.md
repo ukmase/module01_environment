@@ -1,4 +1,4 @@
-**17.09.2026 18:35 - релиз 1.0.2:** Добавлены файл changelog и одно issue-like TODO в lr01_runtime_order_Украинский.ipynb. Исправлена опечатка в text_card.md. (Спасибо, bleapylink!)
+**17.09.2026 18:35 - релиз 1.0.2:** Добавлены файл CHANGELOG.md и одно issue-like TODO в lr01_runtime_order_Украинский.ipynb. Исправлена опечатка в text_card.md. (Спасибо, bleapylink!)
 
 **17.09.2026 18:18 - релиз 1.0.1:** Добавлен файл data/text_card.md.
 
