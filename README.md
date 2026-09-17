@@ -29,6 +29,6 @@
 
 **Ограничения:** Последняя ячейка кода (посвящённая работе с файлами) может выдать ошибку "FileNotFoundError: [Errno 2] No such file or directory: 'mini_corpus.tsv'". В этом случае следует загрузить в сессионное хранилище файл .tsv.
 
-**История версий:** **17.09.2026 18:35 - релиз 1.0.2:** Добавлены файл changelog и одно issue-like TODO в lr01_runtime_order_Украинский.ipynb. Исправлена опечатка в text_card.md. (Спасибо, bleapylink!)
+**История версий:** **17.09.2026 18:38 - релиз 1.0.2:** Добавлены файл CHANGELOG.md и одно issue-like TODO в lr01_runtime_order_Украинский.ipynb. Исправлена опечатка в text_card.md. (Спасибо, bleapylink!)
 
 (Предыдущие версии см. в файле version_log.md)
